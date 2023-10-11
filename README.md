@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kiyomv
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on nothing as of right now
-- 📫 How to reach me davidcagle154@gmail.com
+- 🌱 I’m was learning cyber security
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me idk
 
 <!---
 Kiyomv/Kiyomv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
